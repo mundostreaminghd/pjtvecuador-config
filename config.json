@@ -3,7 +3,7 @@
     "durationMs": 500
   },
   "stream": {
-    "url": "https://videopro.servidoresdestream.com:3363/live/radiotvpjlive.m3u8",
-    "backupUrl": "https://videopro.servidoresdestream.com:3363/live/radiotvpjlive.m3u8"
+    "url": "https://eu1.servers10.com:8081/8020/index.m3u8",
+    "backupUrl": "https://eu1.servers10.com:8081/8020/index.m3u8"
   }
 }
